@@ -55,3 +55,6 @@ wget -qO- https://raw.githubusercontent.com/kangjwme/LTT/main/ltt.sh | bash
 至於server ID怎麼找，有兩種方式
 1. https://www.speedtest.net/speedtest-servers.php 可以找到你附近的speedtest節點
 2. https://williamyaps.github.io/wlmjavascript/servercli.html 可以利用Ctrl+F搜尋，但有些好像都不能用(?
+
+## 聯絡我
+Telegram：https://t.me/kjw0915
