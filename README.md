@@ -1,4 +1,4 @@
-# LTT
+# LTT(Linux TesT shell)
 一個讓Linux系統秘密慢慢揭露的小腳本＼(＠＾０＾＠)/
 
 功能列表：
@@ -47,3 +47,9 @@ wget -qO-  | bash
  台中 中華電信98.50 Mbps          96.56 Mbps              51.03 ms                
  高雄 中華電信98.80 Mbps          96.24 Mbps              53.33 ms  
 ```
+##怎麼添加Speedtest測速節點
+打開ltt.sh，搜尋`#這邊可以自行新增speedtest節點`，依照格式複製貼上即可
+
+至於server ID怎麼找，有兩種方式
+1. https://www.speedtest.net/speedtest-servers.php 可以找到你附近的speedtest節點
+2. https://williamyaps.github.io/wlmjavascript/servercli.html 可以利用Ctrl+F搜尋，但有些好像都不能用(?
