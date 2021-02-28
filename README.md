@@ -16,7 +16,7 @@
 使用指令如下：
 
 ```
-wget -qO-  | bash
+wget -qO- https://raw.githubusercontent.com/kangjwme/LTT/main/ltt.sh | bash
 ```
 使用範例如下(感謝UpCloud贊助主機借我~~操~~測試)：
 ```
