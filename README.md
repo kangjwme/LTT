@@ -47,7 +47,7 @@ wget -qO-  | bash
  台中 中華電信98.50 Mbps          96.56 Mbps              51.03 ms                
  高雄 中華電信98.80 Mbps          96.24 Mbps              53.33 ms  
 ```
-##怎麼添加Speedtest測速節點
+## 怎麼添加Speedtest測速節點
 打開ltt.sh，搜尋`#這邊可以自行新增speedtest節點`，依照格式複製貼上即可
 
 至於server ID怎麼找，有兩種方式
